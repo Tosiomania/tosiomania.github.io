@@ -23,8 +23,11 @@ u
 {
     text-align: center;
     color: rgb(0, 0, 0);
-    
+        text-shadow: rgb(184, 255, 202) 5px 5px, 
+        rgb(193, 255, 196) 5px 5px;
 }
+
+
 html
 {
     background-image: url("https://static.vecteezy.com/system/resources/previews/011/426/075/non_2x/aesthetic-white-and-green-background-with-space-for-text-modern-background-design-with-liquid-shape-white-background-with-green-liquid-shapes-free-vector.jpg");
